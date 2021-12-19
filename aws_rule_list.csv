@@ -1,0 +1,2 @@
+way,cidr,ipProtocol,fromPort,toPort
+ingress,0.0.0.0/32,tcp,22,22
